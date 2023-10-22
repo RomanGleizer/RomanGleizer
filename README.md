@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Roman!
-- 👀 I’m interested in Unity, C#, ASP.NET, SQL
+- 👀 I’m interested in Math, C#, Unity, ASP.NET, SQL
 - 🌱 I’m currently learning ASP.NET
