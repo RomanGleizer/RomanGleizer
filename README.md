@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @RomanGleizer
+- 👀 I’m interested in Unity, .NET, SQL
+- 🌱 I’m currently learning ASP.NET
