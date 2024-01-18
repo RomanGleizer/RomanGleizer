@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Roman!
 - 👀 I’m interested in C#, Unity, ASP.NET Core, SQL, Python, HTML5, CSS3 and a little in JavaScript
-- 🌱 I’m currently learning ASP.NET Core
+- 🌱 I'm currently working on a project about cars.
