@@ -1,3 +1,5 @@
-- 👋 Hi, I’m Roman!
-- 👀 I’m interested in C#, Unity, ASP.NET Core, SQL, Python, HTML5, CSS3 and a little in JavaScript
-- 🌱 I'm currently working on a project about cars.
+Hi there! 👋
+Welcome to my GitHub profile!
+
+- 👋 I’m Roman!
+- 👀 I'm a backend developer. I love creating web applications in ASP.NET/
