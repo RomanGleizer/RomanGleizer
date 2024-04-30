@@ -1,5 +1,5 @@
-Hi there! 👋
-Welcome to my GitHub profile!
+Hi 👋
+Welcome to my profile on GitHub!
 
-- 👋 I’m Roman!
-- 👀 I'm a backend developer. I love creating web applications in ASP.NET
+- 👋 My name is Roman!
+- 👀 I'm a backend ASP.NET developer and an aspiring 1C developer
