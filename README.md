@@ -1,5 +1,8 @@
-Hi 👋
-Welcome to my profile on GitHub!
+# Привет! 👋
 
-- 👋 My name is Roman!
-- 👀 I'm a 1C developer
+Добро пожаловать на мой профиль GitHub!
+
+## О себе
+
+- Меня зовут Роман!
+- Я 1С программист.
